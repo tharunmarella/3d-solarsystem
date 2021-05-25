@@ -1,6 +1,6 @@
 # 3d-solarsystem
-v Modify your solar system with the following
-o Set up SOIL as Instructed
+ Modify your solar system with the following \n
+o Set up SOIL as Instructed \n
 o Without using glutSolidSphere() to create planets use the following
 GLUquadricObj *sphere= NULL; // global variouble
 gluSphere(sphere,3.0, 40,40); //in display
